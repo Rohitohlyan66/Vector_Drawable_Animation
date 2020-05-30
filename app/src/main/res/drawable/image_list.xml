@@ -1,0 +1,22 @@
+<?xml version="1.0" encoding="utf-8"?>
+<animation-list xmlns:android="http://schemas.android.com/apk/res/android">
+
+    <item
+        android:drawable="@drawable/charge1"
+        android:duration="300"></item>
+
+    <item
+        android:drawable="@drawable/charge2"
+        android:duration="300"></item>
+    <item
+        android:drawable="@drawable/charge3"
+        android:duration="300"></item>
+    <item
+        android:drawable="@drawable/charge4"
+        android:duration="300"></item>
+    <item
+        android:drawable="@drawable/charge5"
+        android:duration="300"></item>
+
+
+</animation-list>
